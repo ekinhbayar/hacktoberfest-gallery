@@ -1,5 +1,5 @@
 # [October '22 Gallery](https://ekinhbayar.github.io/hacktoberfest-gallery/)
-Add any kind of artwork to this repository, the only rule is that it needs to be from October 2022. Go wild! Create a PR against issue[#1](https://github.com/ekinhbayar/hacktoberfest-gallery/issues/1) by first forking this repository and submitting a pull request of your entries from your own GitHub account.
+Add any kind of artwork to this repository, the only rule is that it needs to be from October 2022. Go wild! Create a PR against issue [#1](https://github.com/ekinhbayar/hacktoberfest-gallery/issues/1) by first forking this repository and submitting a pull request of your entries from your own GitHub account. Please target the `gh-pages` branch for your pull request.
 
 #### Adding a new album to gallery
 1. Go to the gallery folder of the forked repo.
