@@ -1,7 +1,10 @@
 # [October '22 Gallery](https://ekinhbayar.github.io/hacktoberfest-gallery/)
-Add any kind of artwork to this repository, the only rule is that it needs to be from October 2022. Go wild! Create a PR against issue [#1](https://github.com/ekinhbayar/hacktoberfest-gallery/issues/1) by first forking this repository and submitting a pull request of your entries from your own GitHub account. Please target the `master` branch for your pull request.
+Add any kind of artwork to this repository, the only rule is that it needs to be from October 2022. Go wild! 
 
-#### Adding a new album to gallery
+## Contributing
+Create a PR against issue [#1](https://github.com/ekinhbayar/hacktoberfest-gallery/issues/1) by first forking this repository and submitting a pull request of your entries from your own GitHub account, targeting the `master` branch.
+
+#### Add a new album to gallery
 1. Go to the gallery folder of the forked repo.
 2. Click on Create a new file button.
 3. Type @yourGitHubUsername/.gitkeep in the input box.
@@ -9,7 +12,7 @@ Add any kind of artwork to this repository, the only rule is that it needs to be
 
 ![newfolder](https://media.giphy.com/media/455paOHOAWr4KWNOtg/giphy.gif)
 
-#### Adding Medias
+#### Add Media
 1. Go to gallery folder. Open your @yourGitHubUsername/ album.
 2. Click on the Upload files button
 3. Select files. Once it finishes upload, click Commit Changes button, give yourself a pat on the shoulder from me! Double pat and a hug if your photos included a cute pet friend of yours.
