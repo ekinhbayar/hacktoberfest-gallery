@@ -2,7 +2,7 @@
 Add any kind of artwork to this repository, the only rule is that it needs to be from October 2022. Go wild! 
 
 ## Contributing
-Create a PR against issue [#1](https://github.com/ekinhbayar/hacktoberfest-gallery/issues/1) by first forking this repository and submitting a pull request of your entries from your own GitHub account, targeting the `master` branch.
+Create a PR against issue [#1](https://github.com/ekinhbayar/hacktoberfest-gallery/issues/1) by first forking this repository and submitting a pull request of your entries from your own GitHub account, targeting the `master` branch. Follow the tips below to contribute your October 2022 cotent:
 
 #### Add a new album to gallery
 1. Go to the gallery folder of the forked repo.
