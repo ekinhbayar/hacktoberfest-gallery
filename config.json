@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Add your own @githubUsername folder [here](https://github.com/ekinhbayar/hacktoberfest-gallery)",
   "usage-stats": false
 }
