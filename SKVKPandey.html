@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, user-scalable=no" />
+      <title>October 2022 Gallery - @SKVKPandey</title>
+      <link rel="stylesheet" href="public/lightgallery/css/lightgallery.css" />
+      <link rel="stylesheet" href="public/videojs/video-js.min.css" />
+      <link rel="stylesheet" href="public/lightgallery/css/lg-exif.min.css" />
+      <link rel="stylesheet" href="public/core.css" />
+      <link rel="stylesheet" href="public/theme.css" />
+  </head>
+
+  <body>
+
+    
+    <div id="container">
+    
+      <!--
+        Gallery title
+      -->
+      <header>
+        <h1><a href="index.html">October 2022 Gallery</a></h1>
+      </header>
+    
+      <!--
+        Breadcrumbs of parent albums
+      -->
+      <nav class="breadcrumbs">
+    <a class="breadcrumb-item" href="index.html">Home</a>&nbsp;/&nbsp;<a class="breadcrumb-item" href="SKVKPandey.html">@SKVKPandey</a>
+      </nav>
+    
+      <!--
+        Nested albums, if any
+      -->
+      <div id="albums">
+      </div>
+    
+      <!--
+        All photos and videos
+      -->
+      <ul id="media" class="clearfix">
+          
+            <li data-src="media/large/@SKVKPandey/fest.jpg"
+                data-sub-html=""
+                data-download-url="media/original/@SKVKPandey/fest.jpg"
+                
+                data-filename="fest.jpg"
+          
+              >
+              <a href="media/original/@SKVKPandey/fest.jpg">
+                <img src="media/thumbs/@SKVKPandey/fest.jpg"
+                     width="120"
+                     height="120"
+                     alt="fest.jpg" />
+              </a>
+            </li>      
+            <li data-src="media/large/@SKVKPandey/garden.jpg"
+                data-sub-html=""
+                data-download-url="media/original/@SKVKPandey/garden.jpg"
+                
+                data-filename="garden.jpg"
+          
+              >
+              <a href="media/original/@SKVKPandey/garden.jpg">
+                <img src="media/thumbs/@SKVKPandey/garden.jpg"
+                     width="120"
+                     height="120"
+                     alt="garden.jpg" />
+              </a>
+            </li>      
+            <li data-src="media/large/@SKVKPandey/india-gate.jpg"
+                data-sub-html=""
+                data-download-url="media/original/@SKVKPandey/india-gate.jpg"
+                
+                data-filename="india-gate.jpg"
+          
+              >
+              <a href="media/original/@SKVKPandey/india-gate.jpg">
+                <img src="media/thumbs/@SKVKPandey/india-gate.jpg"
+                     width="120"
+                     height="120"
+                     alt="india-gate.jpg" />
+              </a>
+            </li>      
+            <li data-src="media/large/@SKVKPandey/river.jpg"
+                data-sub-html=""
+                data-download-url="media/original/@SKVKPandey/river.jpg"
+                
+                data-filename="river.jpg"
+          
+              >
+              <a href="media/original/@SKVKPandey/river.jpg">
+                <img src="media/thumbs/@SKVKPandey/river.jpg"
+                     width="120"
+                     height="120"
+                     alt="river.jpg" />
+              </a>
+            </li>      
+            <li data-src="media/large/@SKVKPandey/school.jpg"
+                data-sub-html=""
+                data-download-url="media/original/@SKVKPandey/school.jpg"
+                
+                data-filename="school.jpg"
+          
+              >
+              <a href="media/original/@SKVKPandey/school.jpg">
+                <img src="media/thumbs/@SKVKPandey/school.jpg"
+                     width="120"
+                     height="120"
+                     alt="school.jpg" />
+              </a>
+            </li>      
+            <li data-src="media/large/@SKVKPandey/temple.jpg"
+                data-sub-html=""
+                data-download-url="media/original/@SKVKPandey/temple.jpg"
+                
+                data-filename="temple.jpg"
+          
+              >
+              <a href="media/original/@SKVKPandey/temple.jpg">
+                <img src="media/thumbs/@SKVKPandey/temple.jpg"
+                     width="120"
+                     height="120"
+                     alt="temple.jpg" />
+              </a>
+            </li>  </ul>
+    
+      <!--
+        Pagination
+      -->
+    
+      <!--
+        Zip file link
+      -->
+    
+    
+      <!--
+        Optional footer
+      -->
+      <footer>
+        <p>Add your own @githubUsername folder at <a href='https://github.com/ekinhbayar/hacktoberfest-gallery' target='_blank'>here</a></p>
+      </footer>
+    
+    </div>
+    <!-- Video loader -->
+    <div id="videos">
+    </div>
+
+    <!-- jQuery -->
+    <script src="public/jquery.min.js"></script>
+    <!-- VideoJS -->
+    <script src="public/videojs/video.min.js"></script>
+    <!-- LightGallery -->
+    <script src="public/lightgallery/js/lightgallery.js"></script>
+    <script src="public/lightgallery/js/lg-autoplay.js"></script>
+    <script src="public/lightgallery/js/lg-pager.js"></script>
+    <script src="public/lightgallery/js/lg-thumbnail.js"></script>
+    <script src="public/lightgallery/js/lg-video.js"></script>
+    <script src="public/lightgallery/js/lg-exif.min.js"></script>
+
+    <script>
+      $(document).ready(function() {
+        $("#media").lightGallery({
+          thumbWidth: 80,
+          controls: true,
+          loop : false,
+          download: true,
+          counter: true,
+          videojs: true
+        });
+      });
+    </script>
+
+
+  </body>
+
+</html>
